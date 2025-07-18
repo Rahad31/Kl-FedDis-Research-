@@ -34,3 +34,25 @@ KL-FedDis/
 ├── main.py               # Main script to run training
 ├── config.yaml           # Configuration parameters
 └── README.md             # Project documentation
+
+
+##📚 Citation
+If you use this code, please cite:
+
+bibtex
+Copy
+Edit
+@article{rahad2024klfeddis,
+  title={KL-FedDis: A Federated Learning Approach with Distribution Information Sharing Using Kullback-Leibler Divergence for Non-IID Data},
+  author={Rahad, Md. and Shabab, Ruhan and Ahammad, Mohd. Sultan and Reza, Md. Mahfuz and Karmaker, Amit and Hossain, Md. Abir},
+  journal={Neuroscience Informatics},
+  year={2024},
+  publisher={Elsevier}
+}
+
+🤝 Contact
+For questions, feel free to contact:
+
+Md. Rahad
+📧 rahad3100@gmail.com
+
