@@ -10,7 +10,8 @@ This repository provides the official code for the paper:
 Published in *Neuroscience Informatics (Q1 Journal), Elsevier.*
 
 **Authors:** Md. Rahad, Ruhan Shabab, Mohd. Sultan Ahammad, Md. Mahfuz Reza, Amit Karmaker, Md. Abir Hossain, PhD  
-[[https://www.sciencedirect.com/science/article/pii/S277252862400027X](#)] 
+📄 [KL-FedDis Paper (Elsevier, 2024)](https://doi.org/10.1016/j.neuri.2024.100182)
+
 
 ---
 
@@ -23,9 +24,9 @@ Published in *Neuroscience Informatics (Q1 Journal), Elsevier.*
 
 ---
 
-## 🗂️ Project every file Structure
+## 🗂️ Project Every Files Structure
 
-```bash
+
 🧱 1. Model Definitions
 VAE — Variational Autoencoder for learning data distributions
 
@@ -81,13 +82,16 @@ if __name__ == "__main__" — Entry point to run the simulation
 
 
 
+
+
+
 ---
 
 ## 📚 Citation
+
 If you use this code, please cite:
 
-bibtex
-
+```bibtex
 @article{rahad2024klfeddis,
   title={KL-FedDis: A Federated Learning Approach with Distribution Information Sharing Using Kullback-Leibler Divergence for Non-IID Data},
   author={Rahad, Md. and Shabab, Ruhan and Ahammad, Mohd. Sultan and Reza, Md. Mahfuz and Karmaker, Amit and Hossain, Md. Abir},
@@ -96,7 +100,6 @@ bibtex
   publisher={Elsevier}
 }
 
----
 ## 🤝 Contact
 For questions, feel free to contact:
 
