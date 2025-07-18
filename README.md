@@ -1,6 +1,6 @@
 # KL-FedDis: A Federated Learning Approach with Distribution Information Sharing
 
-![KL-FedDis](https://www.sciencedirect.com/science/article/pii/S277252862400027X?via%3Dihub)  
+![KL-FedDis](https://img.shields.io/badge/Federated%20Learning-KL--FedDis-blue)  
 A PyTorch-based implementation of **KL-FedDis**, a federated learning framework that incorporates Kullback–Leibler divergence for effective communication and training in non-IID environments.
 
 ## 🧠 About
@@ -10,7 +10,7 @@ This repository provides the official code for the paper:
 Published in *Neuroscience Informatics (Q1 Journal), Elsevier.*
 
 **Authors:** Md. Rahad, Ruhan Shabab, Mohd. Sultan Ahammad, Md. Mahfuz Reza, Amit Karmaker, Md. Abir Hossain, PhD  
-[[Link to Paper](#)] ← *(Add actual link)*
+[[https://www.sciencedirect.com/science/article/pii/S277252862400027X](#)] 
 
 ---
 
